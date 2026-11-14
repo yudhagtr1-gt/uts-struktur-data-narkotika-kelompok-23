@@ -1,9 +1,11 @@
 package id.ac.umm;
 
+import id.ac.umm.io.CsvExporter;
 import id.ac.umm.io.CsvImporter;
 import id.ac.umm.io.HasilImpor;
 import id.ac.umm.model.Putusan;
 import id.ac.umm.service.AgregasiService;
+import id.ac.umm.service.AuditService;
 import id.ac.umm.service.FilterService;
 import id.ac.umm.service.PutusanService;
 import id.ac.umm.service.PutusanService.HasilCari;
@@ -14,6 +16,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.time.format.DateTimeParseException;
@@ -26,7 +29,9 @@ public class Main {
 
     private static final Scanner in = new Scanner(System.in);
     private static PutusanService service = new PutusanService(new ArrayDinamis<>());
-    /** Hasil filter terakhir untuk agregasi; di-reset saat arsip berubah supaya tidak basi. */
+    /** Riwayat operasi pengguna; disimpan di Stack (struktur sekunder). */
+    private static final AuditService audit = new AuditService();
+    /** Hasil filter terakhir untuk agregasi dan ekspor; di-reset saat arsip berubah supaya tidak basi. */
     private static ArrayDinamis<Putusan> hasilFilterTerakhir = null;
 
     public static void main(String[] args) {
@@ -42,6 +47,8 @@ public class Main {
             System.out.println("6. Filter");
             System.out.println("7. Agregasi");
             System.out.println("8. Urutkan berdasarkan vonis");
+            System.out.println("9. Ekspor (CSV / laporan)");
+            System.out.println("10. Riwayat audit");
             System.out.println("0. Keluar");
             String pilihan = tanya("Pilih");
             if (pilihan == null || pilihan.equals("0")) {
@@ -58,13 +65,17 @@ public class Main {
                     case "6" -> filter();
                     case "7" -> agregasi();
                     case "8" -> urutkan();
+                    case "9" -> ekspor();
+                    case "10" -> riwayat();
                     default -> System.out.println("Pilihan tidak dikenal.");
                 }
             } catch (IllegalArgumentException | DateTimeParseException | IndexOutOfBoundsException e) {
                 System.out.println("Ditolak: " + e.getMessage());
                 System.out.println("Struktur tetap konsisten: " + service.valid());
+                audit.catat("DITOLAK", "menu " + pilihan + ": " + e.getMessage());
             } catch (IOException e) {
-                System.out.println("Gagal membaca file: " + e.getMessage());
+                System.out.println("Gagal membaca/menulis file: " + e.getMessage());
+                audit.catat("GAGAL-FILE", "menu " + pilihan + ": " + e.getMessage());
             }
         }
     }
@@ -90,6 +101,7 @@ public class Main {
             System.out.println("PERINGATAN: jumlah valid " + hasil.jumlahValid() + ", target " + TARGET + ".");
         }
         System.out.println("Invariant OK : " + hasil.konsisten());
+        audit.catat("IMPOR", path + " (valid " + hasil.jumlahValid() + ", ditolak " + hasil.jumlahDitolak() + ")");
     }
 
     private static void tampil() {
@@ -114,6 +126,7 @@ public class Main {
                 berat, "", "", 0, vonis, 0L, "", "", "", "");
         service.tambah(p);
         hasilFilterTerakhir = null;
+        audit.catat("TAMBAH", caseId);
         System.out.println("Ditambahkan di posisi " + (service.jumlah() - 1)
                 + ". Invariant OK: " + service.valid());
     }
@@ -126,13 +139,16 @@ public class Main {
         }
         if (masukan.matches("\\d+")) {
             Putusan p = service.hapusPosisi(Integer.parseInt(masukan));
+            audit.catat("HAPUS", p.caseId() + " (posisi " + masukan + ")");
             System.out.println("Dihapus: " + p.caseId() + " (elemen sesudahnya bergeser ke kiri)");
         } else {
             HasilCari h = service.hapusKunci(masukan);
             if (h.ditemukan()) {
+                audit.catat("HAPUS", h.putusan().caseId() + " (posisi " + h.posisi() + ")");
                 System.out.println("Dihapus: " + h.putusan().caseId() + " dari posisi " + h.posisi()
                         + " setelah " + h.langkah() + " langkah");
             } else {
+                audit.catat("HAPUS-GAGAL", masukan + " tidak ditemukan");
                 System.out.println("Tidak ditemukan setelah " + h.langkah() + " langkah.");
             }
         }
@@ -141,11 +157,14 @@ public class Main {
     }
 
     private static void cari() {
-        HasilCari h = service.cari(tanya("Kunci"));
+        String kunci = tanya("Kunci");
+        HasilCari h = service.cari(kunci);
         if (h.ditemukan()) {
+            audit.catat("CARI", kunci + " ditemukan di posisi " + h.posisi() + " (" + h.langkah() + " langkah)");
             System.out.println("Ditemukan di posisi " + h.posisi() + " setelah " + h.langkah() + " langkah:");
             System.out.println(service.ringkasan(h.posisi()));
         } else {
+            audit.catat("CARI", kunci + " tidak ditemukan (" + h.langkah() + " langkah)");
             System.out.println("Tidak ditemukan setelah " + h.langkah() + " langkah.");
         }
     }
@@ -165,6 +184,7 @@ public class Main {
         hasilFilterTerakhir = h.hasil();
 
         cetak(h.hasil());
+        audit.catat("FILTER", h.hasil().size() + " cocok dari " + h.diperiksa());
         System.out.println("Cocok: " + h.hasil().size() + " dari " + h.diperiksa() + " putusan diperiksa.");
     }
 
@@ -191,6 +211,7 @@ public class Main {
             AgregasiService.Distribusi d = r.distribusi().get(i);
             System.out.println("  - " + d.jenis() + ": " + d.jumlah());
         }
+        audit.catat("AGREGASI", "2".equals(pilih) ? "hasil filter" : "seluruh arsip");
     }
 
     private static void urutkan() {
@@ -199,8 +220,65 @@ public class Main {
                 ? UrutanService.Arah.TURUN : UrutanService.Arah.NAIK;
         UrutanService.HasilUrut h = new UrutanService(service).urutkanVonis(arah);
         cetak(h.hasil());
+        audit.catat("URUT", "vonis " + arah);
         System.out.println("Perbandingan: " + h.perbandingan() + ", pergeseran: " + h.pergeseran());
         System.out.println("Arsip utama tidak berubah. Invariant OK: " + service.valid());
+    }
+
+    private static void ekspor() throws IOException {
+        String pilih = tanya("Ekspor: 1 = seluruh arsip (CSV), 2 = hasil filter terakhir (CSV), "
+                + "3 = laporan agregasi arsip (teks) [1]");
+        CsvExporter exporter = new CsvExporter();
+        if ("3".equals(pilih)) {
+            Path path = Paths.get(tanyaDefault("Path file", "docs/demo/laporan-agregasi.txt"));
+            buatFolder(path);
+            exporter.eksporLaporan(new AgregasiService(service).hitung(), path);
+            audit.catat("EKSPOR", "laporan agregasi -> " + path);
+            System.out.println("Laporan disimpan ke " + path);
+            return;
+        }
+        ArrayDinamis<Putusan> data;
+        String sumber;
+        String defaultPath;
+        if ("2".equals(pilih)) {
+            if (hasilFilterTerakhir == null) {
+                System.out.println("Belum ada hasil filter yang berlaku. Jalankan menu 6 dulu.");
+                return;
+            }
+            data = hasilFilterTerakhir;
+            sumber = "hasil filter terakhir";
+            defaultPath = "docs/demo/ekspor-filter.csv";
+        } else {
+            data = salinArsip();
+            sumber = "seluruh arsip";
+            defaultPath = "docs/demo/ekspor-arsip.csv";
+        }
+        Path path = Paths.get(tanyaDefault("Path file", defaultPath));
+        buatFolder(path);
+        int jumlah = exporter.eksporPutusan(data, path);
+        audit.catat("EKSPOR", sumber + " (" + jumlah + " baris) -> " + path);
+        System.out.println(jumlah + " putusan (" + sumber + ") disimpan ke " + path);
+    }
+
+    private static void riwayat() {
+        System.out.print(audit.tampilkan());
+        System.out.println("Total catatan: " + audit.jumlah() + " (terbaru di atas). Invariant OK: " + audit.valid());
+    }
+
+    /** Salinan urutan arsip lewat ambil(i); arsip utama tidak diubah. */
+    private static ArrayDinamis<Putusan> salinArsip() {
+        ArrayDinamis<Putusan> salinan = new ArrayDinamis<>(Math.max(service.jumlah(), 1));
+        for (int i = 0; i < service.jumlah(); i++) {
+            salinan.add(service.ambil(i));
+        }
+        return salinan;
+    }
+
+    private static void buatFolder(Path path) throws IOException {
+        Path induk = path.getParent();
+        if (induk != null) {
+            Files.createDirectories(induk);
+        }
     }
 
     private static void cetak(ArrayDinamis<Putusan> data) {
@@ -219,6 +297,11 @@ public class Main {
 
     private static Integer ubahInt(String s) {
         return (s == null || s.isBlank()) ? null : Integer.valueOf(s.trim());
+    }
+
+    private static String tanyaDefault(String label, String nilaiAwal) {
+        String s = tanya(label + " [" + nilaiAwal + "]");
+        return (s == null || s.isBlank()) ? nilaiAwal : s;
     }
 
     private static String tanya(String label) {
