@@ -85,4 +85,15 @@ class ArrayDinamisTest {
         assertEquals(0, a.size());
         assertTrue(a.validateInvariant());
     }
+    @Test
+    void containsTidakMengubahLangkahTerakhir() {
+        ArrayDinamis<String> a = new ArrayDinamis<>();
+        a.add("A");
+        a.add("B");
+        a.add("C");
+        a.search("C");
+        int langkahSearch = a.getLangkahTerakhir();
+        a.contains("A");
+        assertEquals(langkahSearch, a.getLangkahTerakhir());
+    }
 }
