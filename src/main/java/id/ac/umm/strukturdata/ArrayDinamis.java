@@ -109,9 +109,13 @@ public class ArrayDinamis<T> implements StrukturData<T> {
 
     @Override
     public boolean contains(T elemen) {
-        return search(elemen) >= 0;
+        for (int i = 0; i < size; i++) {
+            if (sama(data[i], elemen)) {
+                return true;
+            }
+        }
+        return false;
     }
-
     @Override
     public int size() {
         return size;
