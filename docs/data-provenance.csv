@@ -1,0 +1,756 @@
+﻿case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+P001,caseId,P001,putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P001,nomorPerkara,38/Pid.Sus/2026/PN Kdl,putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P001,pengadilan,Pengadilan Negeri Kendal,putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P001,tanggalPutusan,2026-06-17,putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,38,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P001,terdakwaKode,Terdakwa-001A,putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P001,jenisNarkotika,Sabu (Metamfetamina),putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P001,beratBarangBuktiGram,3.16496,putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,21,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P001,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P001,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P001,tuntutanBulan,48,putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P001,vonisBulan,24,putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,38,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P001,dendaRupiah,0,putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,38,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P001,barangBukti,1 paket sabu dalam plastik klip transparan dililit isolasi cokelat dan dibungkus bekas teh Tong Tji; 1 HP Samsung A03; 1 unit motor Honda Stylo.,putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P001,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat dan dapat membahayakan kesehatan.,putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P001,keadaanMeringankan,Terdakwa bersikap sopan di persidangan dan mengakui perbuatannya.,putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P001,sourcePages,Identitas: 1; tuntutan: 2-3; dakwaan: 6; barang bukti: 37-38; pertimbangan: 37; amar dan tanggal: 38,putusan_38_pid.sus_2026_pn_kdl_20261105215916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P002,caseId,P002,putusan_42_pid.sus_2026_pn_kdl_20261105215921.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P002,nomorPerkara,42/Pid.Sus/2026/PN Kdl,putusan_42_pid.sus_2026_pn_kdl_20261105215921.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P002,pengadilan,Pengadilan Negeri Kendal,putusan_42_pid.sus_2026_pn_kdl_20261105215921.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P002,tanggalPutusan,2026-06-17,putusan_42_pid.sus_2026_pn_kdl_20261105215921.pdf,41,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P002,terdakwaKode,Terdakwa-002A,putusan_42_pid.sus_2026_pn_kdl_20261105215921.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P002,jenisNarkotika,Sabu (Metamfetamina),putusan_42_pid.sus_2026_pn_kdl_20261105215921.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P002,pasalDakwaan,Pasal 609 ayat (2) huruf a UU No. 1 Tahun 2023; Pasal 114 ayat (2) UU No. 35 Tahun 2009,putusan_42_pid.sus_2026_pn_kdl_20261105215921.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P002,pasalTerbukti,Pasal 609 ayat (2) huruf a UU No. 1 Tahun 2023,putusan_42_pid.sus_2026_pn_kdl_20261105215921.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P002,tuntutanBulan,108,putusan_42_pid.sus_2026_pn_kdl_20261105215921.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P002,vonisBulan,66,putusan_42_pid.sus_2026_pn_kdl_20261105215921.pdf,38,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P002,dendaRupiah,1000000000,putusan_42_pid.sus_2026_pn_kdl_20261105215921.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P002,barangBukti,"Sejumlah paket plastik klip berisi sabu, pipet kaca bekas pakai, serta perlengkapan pendukung lainnya.",putusan_42_pid.sus_2026_pn_kdl_20261105215921.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P002,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat.,putusan_42_pid.sus_2026_pn_kdl_20261105215921.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P002,keadaanMeringankan,"Terdakwa menyesali perbuatannya, bersikap sopan, dan berterus terang serta tidak berbelit-belit dalam memberikan keterangan.",putusan_42_pid.sus_2026_pn_kdl_20261105215921.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P002,sourcePages,Identitas: 1; tuntutan: 2; barang bukti: 3-4 dan 37; dakwaan: 8; pertimbangan: 38; amar: 38; tanggal: 41,putusan_42_pid.sus_2026_pn_kdl_20261105215921.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,caseId,P003,putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,nomorPerkara,53/Pid.Sus/2026/PN Kdl,putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,pengadilan,Pengadilan Negeri Kendal,putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,tanggalPutusan,2026-06-23,putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,28,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,terdakwaKode,Terdakwa-003A,putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,jenisNarkotika,Tembakau sintetis (MDMB-4en PINACA),putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,beratBarangBuktiGram,1.76147,putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,pasalDakwaan,Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023; Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,tuntutanBulan,48,putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,vonisBulan,36,putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,27,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,dendaRupiah,0,putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,27,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,barangBukti,"1 paket plastik klip berisi serbuk oranye mengandung MDMB-4en PINACA dengan berat bersih 1,76147 gram; 1 jerigen cairan IPA sebanyak 600 mL yang bukan narkotika.",putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat.,putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,keadaanMeringankan,"Terdakwa menyesali perbuatannya, bersikap sopan, serta berterus terang dan tidak berbelit-belit dalam memberikan keterangan.",putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P003,sourcePages,Identitas: 1; tuntutan: 2; barang bukti dan hasil laboratorium: 4; dakwaan: 5 dan 8; pertimbangan: 26-27; amar: 27; tanggal: 28,putusan_53_pid.sus_2026_pn_kdl_20261105215910.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,caseId,P004,putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,nomorPerkara,55/Pid.Sus/2025/PN Kdl,putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,pengadilan,Pengadilan Negeri Kendal,putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,tanggalPutusan,2025-04-29,putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,48,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,terdakwaKode,Terdakwa-004A,putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,jenisNarkotika,Sabu (Metamfetamina),putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,beratBarangBuktiGram,17.18135,putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,pasalDakwaan,Pasal 114 ayat (2) UU No. 35 Tahun 2009,putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009,putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,tuntutanBulan,108,putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,vonisBulan,96,putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,47,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,dendaRupiah,1000000000,putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,47,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,barangBukti,"3 paket sabu dengan berat netto 0,81065 gram; 58 paket sabu dengan berat netto 16,09430 gram; 1 paket sabu dengan berat netto 0,27640 gram.",putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam pemberantasan peredaran gelap dan penyalahgunaan narkotika serta meresahkan masyarakat.,putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,keadaanMeringankan,"Terdakwa mengakui perbuatannya, menyesal dan berjanji tidak mengulangi perbuatannya, serta belum pernah dihukum.",putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P004,sourcePages,Identitas: 1; tuntutan: 2; barang bukti: 46-47; dakwaan: 8; pertimbangan: 47; amar: 47-48; tanggal: 48,putusan_55_pid.sus_2025_pn_kdl_20261105222040.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,caseId,P005,putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,nomorPerkara,67/Pid.Sus/2026/PN Kdl,putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,pengadilan,Pengadilan Negeri Kendal,putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,tanggalPutusan,2026-08-19,putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,46,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,terdakwaKode,Terdakwa-005A,putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,jenisNarkotika,Sabu (Metamfetamina),putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,beratBarangBuktiGram,0.14248,putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,pasalDakwaan,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009; alternatif lain Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 dan Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,tuntutanBulan,24,putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,vonisBulan,18,putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,45,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,dendaRupiah,0,putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,45,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,barangBukti,"1 paket sabu dengan berat bersih 0,13124 gram; 1 pipet kaca bekas pakai berisi sisa sabu dengan berat bersih 0,01124 gram; 3 alat hisap/bong; 2 korek api; 1 tas BODYPACK.",putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,keadaanMemberatkan,"Terdakwa merupakan anggota kepolisian aktif yang seharusnya memberantas peredaran narkotika, tetapi menyalahgunakan narkotika golongan I jenis sabu; perbuatannya dapat membahayakan kesehatan.",putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,keadaanMeringankan,Terdakwa bersikap sopan di persidangan dan mengakui perbuatannya.,putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P005,sourcePages,Identitas: 1; tuntutan: 2; barang bukti dan laboratorium: 40-42; dakwaan: 6; pertimbangan: 45; amar dan tanggal: 45-46,putusan_67_pid.sus_2026_pn_kdl_20261105215907.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,caseId,P006,putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,nomorPerkara,74/Pid.Sus/2026/PN Kdl,putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,pengadilan,Pengadilan Negeri Kendal,putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,tanggalPutusan,2026-09-16,putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,43,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,terdakwaKode,Terdakwa-006A,putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,jenisNarkotika,Sabu (Metamfetamina),putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,beratBarangBuktiGram,1.53043,putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,tuntutanBulan,84,putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,vonisBulan,72,putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,43,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,dendaRupiah,0,putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,43,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,barangBukti,"3 paket sabu berat netto 1,53043 gram, timbangan digital, isolasi hitam, plastik klip, kartu ATM BCA, tube urine, dan HP OPPO.",putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat; pernah dihukum terkait narkotika; dapat merusak generasi muda; tidak mendukung program pemerintah dalam pemberantasan narkotika.,putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,keadaanMeringankan,"Menyesali perbuatan, sopan, berterus terang, mempunyai riwayat penyakit jantung, dan merupakan tulang punggung keluarga.",putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P006,sourcePages,Identitas: 1; tuntutan: 2; barang bukti: 5-6; pertimbangan: 42; amar dan tanggal: 43,putusan_74_pid.sus_2026_pn_kdl_20261105215736.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,caseId,P007,putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,nomorPerkara,77/Pid.Sus/2026/PN Kdl,putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,pengadilan,Pengadilan Negeri Kendal,putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,tanggalPutusan,2026-08-19,putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,44,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,terdakwaKode,Terdakwa-007A,putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,jenisNarkotika,Tembakau sintetis (MDMB-4en PINACA),putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,beratBarangBuktiGram,1.25544,putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,3,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,tuntutanBulan,36,putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,vonisBulan,36,putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,44,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,dendaRupiah,0,putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,44,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,barangBukti,"Satu paket plastik klip berisi irisan daun tembakau sintetis yang dibalut isolasi merah dengan berat bersih 1,25544 gram.",putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat dan dapat membahayakan kesehatan.,putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,keadaanMeringankan,Terdakwa bersikap sopan di persidangan dan mengakui perbuatannya.,putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P007,sourcePages,Identitas: 1; tuntutan: 2-3; barang bukti: bagian pemeriksaan barang bukti; pertimbangan: bagian keadaan memberatkan dan meringankan; amar dan tanggal: bagian akhir putusan,putusan_77_pid.sus_2026_pn_kdl_20261105215808.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,caseId,P008,putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,nomorPerkara,78/Pid.Sus/2025/PN Kdl,putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,pengadilan,Pengadilan Negeri Kendal,putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,tanggalPutusan,2025-06-30,putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,terdakwaKode,Terdakwa-008A,putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,jenisNarkotika,Sabu (Metamfetamina),putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,beratBarangBuktiGram,1.85744,putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,tuntutanBulan,72,putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,vonisBulan,66,putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,24,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,dendaRupiah,800000000,putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,24,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,barangBukti,"Paket sabu dengan berat bersih 1,85744 gram, bungkus bekas rokok Sampoerna Prima, timbangan digital, bong, dan perlengkapan lainnya.",putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat.,putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,keadaanMeringankan,"Terdakwa mengakui perbuatannya, sopan di persidangan, dan merupakan tulang punggung keluarga.",putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P008,sourcePages,Identitas: 1; tuntutan: bagian tuntutan; barang bukti: bagian pemeriksaan barang bukti; pertimbangan: halaman 23-24; amar dan tanggal: bagian akhir putusan,putusan_78_pid.sus_2025_pn_kdl_20261105221916.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,caseId,P009,putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,nomorPerkara,81/Pid.Sus/2021/PN Kdl,putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,pengadilan,Pengadilan Negeri Kendal,putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,tanggalPutusan,2021-09-15,putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,terdakwaKode,Terdakwa-009A,putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,jenisNarkotika,Ganja,putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,beratBarangBuktiGram,814.3,putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,tuntutanBulan,84,putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,vonisBulan,84,putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,26,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,dendaRupiah,1000000000,putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,26,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,barangBukti,"Satu paket ganja berupa batang, daun, dan biji dengan berat bersih 814,3 gram serta barang pendukung lainnya.",putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah yang menyatakan perang terhadap narkoba.,putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,keadaanMeringankan,Terdakwa menyesali perbuatannya; dalam putusan juga tercantum bahwa terdakwa sudah pernah dihukum.,putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P009,sourcePages,Identitas: 1; tuntutan: bagian tuntutan; barang bukti: halaman 4-5; pertimbangan: halaman 25; amar dan tanggal: halaman 26-27,putusan_81_pid.sus_2021_pn_kdl_20261105221747.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P011,caseId,P011,putusan_84_pid.sus_2025_pn_kdl_20261105221928.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P011,nomorPerkara,84/Pid.Sus/2025/PN Kdl,putusan_84_pid.sus_2025_pn_kdl_20261105221928.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P011,pengadilan,Pengadilan Negeri Kendal,putusan_84_pid.sus_2025_pn_kdl_20261105221928.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P011,tanggalPutusan,2025-06-30,putusan_84_pid.sus_2025_pn_kdl_20261105221928.pdf,39,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P011,terdakwaKode,Terdakwa-011A,putusan_84_pid.sus_2025_pn_kdl_20261105221928.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P011,jenisNarkotika,"Sabu (Metamfetamina), Amfetamina, dan zat lain dalam barang bukti",putusan_84_pid.sus_2025_pn_kdl_20261105221928.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P011,pasalDakwaan,Pasal 114 ayat (1) dan Pasal 112 ayat (1) UU No. 35 Tahun 2009; dakwaan terkait psikotropika juga tercantum,putusan_84_pid.sus_2025_pn_kdl_20261105221928.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P011,vonisBulan,84,putusan_84_pid.sus_2025_pn_kdl_20261105221928.pdf,38,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P011,barangBukti,"11 paket sabu berat netto 1,95437 gram; 13 paket sabu berat netto 2,65793 gram; serta barang bukti lain berupa tablet dan barang pendukung.",putusan_84_pid.sus_2025_pn_kdl_20261105221928.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P011,keadaanMeringankan,Terdakwa menyesali dan mengakui perbuatannya serta belum pernah dihukum.,putusan_84_pid.sus_2025_pn_kdl_20261105221928.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P011,sourcePages,"Identitas: 1; berat dan barang bukti: 6, 30, 34, 37-38; keadaan meringankan: 38; vonis: 38; tanggal: 39",putusan_84_pid.sus_2025_pn_kdl_20261105221928.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P014,caseId,P014,putusan_86_pid.sus_2025_pn_kdl_20261105221952.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P014,nomorPerkara,86/Pid.Sus/2025/PN Kdl,putusan_86_pid.sus_2025_pn_kdl_20261105221952.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P014,pengadilan,Pengadilan Negeri Kendal,putusan_86_pid.sus_2025_pn_kdl_20261105221952.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P014,tanggalPutusan,2025-06-30,putusan_86_pid.sus_2025_pn_kdl_20261105221952.pdf,42,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P014,terdakwaKode,Terdakwa-014A,putusan_86_pid.sus_2025_pn_kdl_20261105221952.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P014,jenisNarkotika,"Sabu, ganja, dan tembakau sintetis",putusan_86_pid.sus_2025_pn_kdl_20261105221952.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P014,pasalDakwaan,Pasal 132 jo. Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_86_pid.sus_2025_pn_kdl_20261105221952.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P014,vonisBulan,84,putusan_86_pid.sus_2025_pn_kdl_20261105221952.pdf,40,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P014,dendaRupiah,1000000000,putusan_86_pid.sus_2025_pn_kdl_20261105221952.pdf,40,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P014,barangBukti,"Berbagai barang bukti narkotika berupa sabu, ganja, dan tembakau sintetis serta barang pendukung lainnya.",putusan_86_pid.sus_2025_pn_kdl_20261105221952.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P014,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam memberantas tindak pidana narkotika dan dapat merusak daya pikir generasi muda.,putusan_86_pid.sus_2025_pn_kdl_20261105221952.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P014,sourcePages,"Identitas: 1; barang bukti: 35, 37, 40; keadaan memberatkan: 39; tanggal: 42",putusan_86_pid.sus_2025_pn_kdl_20261105221952.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P017,caseId,P017,putusan_88_pid.sus_2021_pn_kdl_20261105220530.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P017,nomorPerkara,88/Pid.Sus/2021/PN Kdl,putusan_88_pid.sus_2021_pn_kdl_20261105220530.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P017,pengadilan,Pengadilan Negeri Kendal,putusan_88_pid.sus_2021_pn_kdl_20261105220530.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P017,tanggalPutusan,2021-08-23,putusan_88_pid.sus_2021_pn_kdl_20261105220530.pdf,19,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P017,terdakwaKode,Terdakwa-017A,putusan_88_pid.sus_2021_pn_kdl_20261105220530.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P017,jenisNarkotika,Sabu dan ganja,putusan_88_pid.sus_2021_pn_kdl_20261105220530.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P017,pasalDakwaan,Pasal 127 ayat (1) dan Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_88_pid.sus_2021_pn_kdl_20261105220530.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P017,tuntutanBulan,26,putusan_88_pid.sus_2021_pn_kdl_20261105220530.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P017,vonisBulan,24,putusan_88_pid.sus_2021_pn_kdl_20261105220530.pdf,18,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P017,barangBukti,Barang bukti narkotika jenis sabu dan ganja serta perlengkapan yang berkaitan dengan penyalahgunaan narkotika.,putusan_88_pid.sus_2021_pn_kdl_20261105220530.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P017,keadaanMeringankan,"Terdakwa menyesali perbuatannya, berjanji tidak mengulanginya, dan masih berusia muda sehingga diharapkan mampu memperbaiki perilakunya.",putusan_88_pid.sus_2021_pn_kdl_20261105220530.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P017,sourcePages,"Identitas: 1; barang bukti: 4, 10, 17-18; keadaan memberatkan dan meringankan: 18; vonis: 8; tanggal: 19",putusan_88_pid.sus_2021_pn_kdl_20261105220530.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,caseId,P021,putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,nomorPerkara,94/Pid.Sus/2021/PN Kdl,putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,pengadilan,Pengadilan Negeri Kendal,putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,tanggalPutusan,2021-08-23,putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,23,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,terdakwaKode,Terdakwa-071,putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,jenisNarkotika,Sabu (Metamfetamina),putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,beratBarangBuktiGram,0.13883,putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,4,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,pasalDakwaan,"Pasal 132 ayat (1) jo. Pasal 112 ayat (1), atau Pasal 127 ayat (1) UU No. 35 Tahun 2009",putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,tuntutanBulan,16,putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,vonisBulan,12,putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,22,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,dendaRupiah,0,putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,22,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,barangBukti,"Sabu dengan berat bersih 0,13883 gram dan barang pendukung lainnya.",putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam memberantas penyalahgunaan narkotika.,putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,keadaanMeringankan,"Belum pernah dihukum, sopan selama persidangan, menyesali perbuatannya, berjanji tidak mengulangi, dan masih muda.",putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P021,sourcePages,Nomor perkara: 1; tanggal putusan: 23; identitas terdakwa: 1; berat barang bukti: 4; pasal dan tuntutan: 2-3; pasal terbukti dan vonis: 22; keadaan memberatkan dan meringankan: 22,putusan_94_pid.sus_2021_pn_kdl_20261105220618.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,caseId,P022,putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,nomorPerkara,94/Pid.Sus/2025/PN Kdl,putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,pengadilan,Pengadilan Negeri Kendal,putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,tanggalPutusan,2025-07-07,putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,terdakwaKode,Terdakwa-072,putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,jenisNarkotika,Sabu (Metamfetamina),putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,beratBarangBuktiGram,1.09636,putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,tuntutanBulan,72,putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,vonisBulan,66,putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,24,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,dendaRupiah,1000000000,putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,barangBukti,"Enam bungkus plastik klip berisi sabu dengan berat bersih keseluruhan 1,09636 gram.",putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam memberantas narkotika.,putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,keadaanMeringankan,Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulanginya.,putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P022,sourcePages,"Nomor perkara: 1; tanggal putusan: 25; identitas terdakwa: 1; berat barang bukti: 6; tuntutan: 2; pasal terbukti, vonis, dan denda: 25; keadaan memberatkan dan meringankan: 24",putusan_94_pid.sus_2025_pn_kdl_20261105222016.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,caseId,P023,putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,nomorPerkara,94/Pid.Sus/2026/PN Kdl,putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,pengadilan,Pengadilan Negeri Kendal,putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,tanggalPutusan,2026-09-21,putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,33,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,terdakwaKode,Terdakwa-073,putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,jenisNarkotika,Sabu (Metamfetamina),putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,beratBarangBuktiGram,3.60572,putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,tuntutanBulan,60,putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,vonisBulan,48,putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,33,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,dendaRupiah,0,putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,32,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,barangBukti,"Satu bungkus plastik kecil berisi sabu dengan berat bersih 3,60572 gram.",putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat dan terdakwa pernah dihukum dalam perkara narkotika.,putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,keadaanMeringankan,"Terdakwa menyesali perbuatannya, berterus terang, dan tidak berbelit-belit dalam memberikan keterangan.",putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P023,sourcePages,"Nomor perkara: 1; tanggal putusan: 33; identitas terdakwa: 1; berat barang bukti: 6; tuntutan: 2; pasal terbukti, vonis, dan barang bukti: 32-33; keadaan memberatkan dan meringankan: 32",putusan_94_pid.sus_2026_pn_kdl_20261105215758.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P024,caseId,P024,putusan_95_pid.sus_2021_pn_kdl_20261105220606.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P024,nomorPerkara,95/Pid.Sus/2021/PN Kdl,putusan_95_pid.sus_2021_pn_kdl_20261105220606.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P024,pengadilan,Pengadilan Negeri Kendal,putusan_95_pid.sus_2021_pn_kdl_20261105220606.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P024,tanggalPutusan,2021-08-25,putusan_95_pid.sus_2021_pn_kdl_20261105220606.pdf,47,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P024,terdakwaKode,Terdakwa-074A dan Terdakwa-074B,putusan_95_pid.sus_2021_pn_kdl_20261105220606.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P024,jenisNarkotika,Sabu (Metamfetamina),putusan_95_pid.sus_2021_pn_kdl_20261105220606.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P024,pasalDakwaan,"Pasal 132 ayat (1) jo. Pasal 114 ayat (1), subsidair Pasal 132 ayat (1) jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009",putusan_95_pid.sus_2021_pn_kdl_20261105220606.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P024,pasalTerbukti,Pasal 132 ayat (1) jo. Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_95_pid.sus_2021_pn_kdl_20261105220606.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P024,vonisBulan,63,putusan_95_pid.sus_2021_pn_kdl_20261105220606.pdf,46,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P024,dendaRupiah,1000000000,putusan_95_pid.sus_2021_pn_kdl_20261105220606.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P024,barangBukti,"Beberapa paket plastik klip berisi sabu, sedotan, plastik, dan barang pendukung lainnya.",putusan_95_pid.sus_2021_pn_kdl_20261105220606.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P024,keadaanMemberatkan,Perbuatan para terdakwa tidak mendukung program pemerintah yang menyatakan perang terhadap narkoba.,putusan_95_pid.sus_2021_pn_kdl_20261105220606.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P024,keadaanMeringankan,Para terdakwa menyesali perbuatan yang dilakukan dan belum pernah dihukum.,putusan_95_pid.sus_2021_pn_kdl_20261105220606.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P024,sourcePages,"Nomor perkara: 1; tanggal putusan: 47; identitas terdakwa: 1; rincian berat barang bukti: 9 dan 34; pasal terbukti, vonis, dan denda: 46-47; keadaan memberatkan dan meringankan: 46",putusan_95_pid.sus_2021_pn_kdl_20261105220606.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P025,caseId,P025,putusan_96_pid.sus_2026_pn_kdl_20261105215739.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P025,nomorPerkara,96/Pid.Sus/2026/PN Kdl,putusan_96_pid.sus_2026_pn_kdl_20261105215739.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P025,pengadilan,Pengadilan Negeri Kendal,putusan_96_pid.sus_2026_pn_kdl_20261105215739.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P025,tanggalPutusan,2026-09-10,putusan_96_pid.sus_2026_pn_kdl_20261105215739.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P025,terdakwaKode,Terdakwa-075,putusan_96_pid.sus_2026_pn_kdl_20261105215739.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P025,jenisNarkotika,Sabu,putusan_96_pid.sus_2026_pn_kdl_20261105215739.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P025,beratBarangBuktiGram,7.49907,putusan_96_pid.sus_2026_pn_kdl_20261105215739.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P025,pasalDakwaan,Pasal 114 ayat (2) UU No. 35 Tahun 2009 dan Pasal 609 ayat (2) huruf a UU No. 1 Tahun 2023,putusan_96_pid.sus_2026_pn_kdl_20261105215739.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P025,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009,putusan_96_pid.sus_2026_pn_kdl_20261105215739.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P025,vonisBulan,60,putusan_96_pid.sus_2026_pn_kdl_20261105215739.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P025,dendaRupiah,0,putusan_96_pid.sus_2026_pn_kdl_20261105215739.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P025,barangBukti,"Dua kelompok barang bukti sabu, masing-masing dengan berat bersih 6,07694 gram dan 1,42213 gram.",putusan_96_pid.sus_2026_pn_kdl_20261105215739.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P025,keadaanMemberatkan,"Perbuatan terdakwa tidak mendukung program pemerintah dalam memberantas narkotika, dapat merusak saraf dan kesehatan mental atau psikologis pengguna, serta meresahkan masyarakat.",putusan_96_pid.sus_2026_pn_kdl_20261105215739.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P025,keadaanMeringankan,"Terdakwa menyesali perbuatannya, berjanji tidak mengulangi, merupakan tulang punggung keluarga, memiliki anak kecil, dan mengalami kesulitan ekonomi.",putusan_96_pid.sus_2026_pn_kdl_20261105215739.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P025,sourcePages,"Nomor perkara: 1; tanggal putusan: 25; identitas terdakwa: 1; berat barang bukti: 2 dan 8; pasal terbukti, vonis, dan barang bukti: 25; keadaan memberatkan dan meringankan: 24",putusan_96_pid.sus_2026_pn_kdl_20261105215739.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,caseId,P026,putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,nomorPerkara,100/Pid.Sus/2021/PN Kdl,putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,pengadilan,Pengadilan Negeri Kendal,putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,tanggalPutusan,2021-09-08,putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,terdakwaKode,Terdakwa-076,putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,jenisNarkotika,Sabu (Metamfetamina),putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,beratBarangBuktiGram,9.63397,putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,6,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,pasalDakwaan,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,tuntutanBulan,106,putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,vonisBulan,96,putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,24,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,dendaRupiah,1000000000,putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,24,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,barangBukti,"Paket berisi dua klip plastik serbuk kristal sabu dengan berat bersih keseluruhan 9,63397 gram, handphone, timbangan digital, dan barang pendukung lainnya.",putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah untuk mencegah dan memberantas penyalahgunaan serta peredaran narkotika.,putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,keadaanMeringankan,"Terdakwa mengakui perbuatannya, menyesal, berjanji tidak mengulangi, dan sopan dalam persidangan.",putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P026,sourcePages,"Nomor perkara: 1; tanggal putusan: 25; identitas terdakwa: 1; berat barang bukti: 17; barang bukti: 16, 23-24; pasal dakwaan dan tuntutan: 2-3; pasal terbukti dan vonis: 24-25; keadaan memberatkan dan meringankan: 24",putusan_100_pid.sus_2021_pn_kdl_20261105220642.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P027,caseId,P027,putusan_100_pid.sus_2026_pn_kdl_20261105215801.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P027,nomorPerkara,100/Pid.Sus/2026/PN Kdl,putusan_100_pid.sus_2026_pn_kdl_20261105215801.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P027,pengadilan,Pengadilan Negeri Kendal,putusan_100_pid.sus_2026_pn_kdl_20261105215801.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P027,tanggalPutusan,2026-09-22,putusan_100_pid.sus_2026_pn_kdl_20261105215801.pdf,23,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P027,terdakwaKode,Terdakwa-077,putusan_100_pid.sus_2026_pn_kdl_20261105215801.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P027,jenisNarkotika,Sabu (Metamfetamina),putusan_100_pid.sus_2026_pn_kdl_20261105215801.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P027,beratBarangBuktiGram,0.18998,putusan_100_pid.sus_2026_pn_kdl_20261105215801.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P027,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_100_pid.sus_2026_pn_kdl_20261105215801.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P027,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_100_pid.sus_2026_pn_kdl_20261105215801.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P027,tuntutanBulan,60,putusan_100_pid.sus_2026_pn_kdl_20261105215801.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P027,vonisBulan,36,putusan_100_pid.sus_2026_pn_kdl_20261105215801.pdf,23,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P027,dendaRupiah,0,putusan_100_pid.sus_2026_pn_kdl_20261105215801.pdf,22,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P027,barangBukti,"Serbuk kristal sabu dengan berat bersih 0,18998 gram, handphone, dan bungkus rokok.",putusan_100_pid.sus_2026_pn_kdl_20261105215801.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P027,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat dan terdakwa pernah dihukum dalam perkara narkotika.,putusan_100_pid.sus_2026_pn_kdl_20261105215801.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P027,sourcePages,"Nomor perkara: 1; tanggal putusan: 23; identitas terdakwa: 1; berat barang bukti: 5; barang bukti: 14, 17, 21, 23; tuntutan: 2-3; pasal terbukti dan vonis: 23; keadaan memberatkan: 22",putusan_100_pid.sus_2026_pn_kdl_20261105215801.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P028,caseId,P028,putusan_106_pid.sus_2025_pn_kdl_20261105222028.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P028,nomorPerkara,106/Pid.Sus/2025/PN Kdl,putusan_106_pid.sus_2025_pn_kdl_20261105222028.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P028,pengadilan,Pengadilan Negeri Kendal,putusan_106_pid.sus_2025_pn_kdl_20261105222028.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P028,tanggalPutusan,2025-07-28,putusan_106_pid.sus_2025_pn_kdl_20261105222028.pdf,18,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P028,terdakwaKode,Terdakwa-078,putusan_106_pid.sus_2025_pn_kdl_20261105222028.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P028,jenisNarkotika,Tembakau sintetis (MDMB-4en PINACA),putusan_106_pid.sus_2025_pn_kdl_20261105222028.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P028,beratBarangBuktiGram,1.01772,putusan_106_pid.sus_2025_pn_kdl_20261105222028.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P028,pasalDakwaan,Pasal 114 ayat (1) dan Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_106_pid.sus_2025_pn_kdl_20261105222028.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P028,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_106_pid.sus_2025_pn_kdl_20261105222028.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P028,vonisBulan,48,putusan_106_pid.sus_2025_pn_kdl_20261105222028.pdf,17,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P028,dendaRupiah,800000000,putusan_106_pid.sus_2025_pn_kdl_20261105222028.pdf,17,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P028,barangBukti,"Dua bungkus/lintingan berisi tembakau sintetis dengan berat bersih 0,40903 gram dan satu plastik klip berisi tembakau sintetis dengan berat bersih 0,60869 gram, serta barang pendukung lainnya.",putusan_106_pid.sus_2025_pn_kdl_20261105222028.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P028,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah untuk memberantas peredaran gelap narkotika dan penyalahgunaan narkotika.,putusan_106_pid.sus_2025_pn_kdl_20261105222028.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P028,keadaanMeringankan,"Terdakwa sopan dan berterus terang di persidangan, menyesali perbuatannya, berjanji tidak mengulangi, dan belum pernah dihukum.",putusan_106_pid.sus_2025_pn_kdl_20261105222028.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P028,sourcePages,"Nomor perkara: 1; tanggal putusan: 18; identitas terdakwa: 1; berat barang bukti: 3; barang bukti: 16-17; pasal terbukti, vonis, dan denda: 16-17; keadaan memberatkan dan meringankan: 16",putusan_106_pid.sus_2025_pn_kdl_20261105222028.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P029,caseId,P029,putusan_106_pid.sus_2026_pn_kdl_20261105215732.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P029,nomorPerkara,106/Pid.Sus/2026/PN Kdl,putusan_106_pid.sus_2026_pn_kdl_20261105215732.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P029,pengadilan,Pengadilan Negeri Kendal,putusan_106_pid.sus_2026_pn_kdl_20261105215732.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P029,tanggalPutusan,2026-10-05,putusan_106_pid.sus_2026_pn_kdl_20261105215732.pdf,28,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P029,terdakwaKode,Terdakwa-079,putusan_106_pid.sus_2026_pn_kdl_20261105215732.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P029,jenisNarkotika,Sabu dan tembakau sintetis (MDMB-4en PINACA),putusan_106_pid.sus_2026_pn_kdl_20261105215732.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P029,beratBarangBuktiGram,1.19124,putusan_106_pid.sus_2026_pn_kdl_20261105215732.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P029,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_106_pid.sus_2026_pn_kdl_20261105215732.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P029,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_106_pid.sus_2026_pn_kdl_20261105215732.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P029,vonisBulan,48,putusan_106_pid.sus_2026_pn_kdl_20261105215732.pdf,28,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P029,dendaRupiah,0,putusan_106_pid.sus_2026_pn_kdl_20261105215732.pdf,27,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P029,barangBukti,"Barang bukti narkotika berupa tembakau sintetis dengan berat bersih keseluruhan 1,19124 gram dan barang pendukung lainnya.",putusan_106_pid.sus_2026_pn_kdl_20261105215732.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P029,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat dan terdakwa pernah dihukum terkait Undang-Undang Kesehatan pada tahun 2024.,putusan_106_pid.sus_2026_pn_kdl_20261105215732.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P029,keadaanMeringankan,"Terdakwa menyesali perbuatannya, sopan di persidangan, dan merupakan tulang punggung keluarga.",putusan_106_pid.sus_2026_pn_kdl_20261105215732.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P029,sourcePages,Nomor perkara: 1; tanggal putusan: 28; identitas terdakwa: 1; berat barang bukti: 5; barang bukti: 26-28; pasal terbukti dan vonis: 27-28; keadaan memberatkan dan meringankan: 27,putusan_106_pid.sus_2026_pn_kdl_20261105215732.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,caseId,P030,putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,nomorPerkara,107/Pid.Sus/2021/PN Kdl,putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,pengadilan,Pengadilan Negeri Kendal,putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,tanggalPutusan,2021-05-04,putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,terdakwaKode,Terdakwa-080A dan Terdakwa-080B,putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,jenisNarkotika,Sabu (Metamfetamina),putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,beratBarangBuktiGram,0.43960,putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,3,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika; subsidair Pasal 112 ayat (1) jo. Pasal 132 ayat (1).,putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,pasalTerbukti,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,tuntutanBulan,78,putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,3,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,vonisBulan,75,putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,27,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,dendaRupiah,1000000000,putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,27,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,barangBukti,"Dua bungkus plastik klip berisi serbuk kristal dengan berat bersih keseluruhan 0,43960 gram, alat hisap, pipet kaca, sedotan, korek api, dan barang pendukung lainnya.",putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,keadaanMemberatkan,Perbuatan para terdakwa bertentangan dengan program pemerintah yang sedang giat memberantas peredaran narkotika.,putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,keadaanMeringankan,"Para terdakwa sopan di persidangan, berterus terang, dan menyesali perbuatannya.",putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P030,sourcePages,"Nomor perkara: 1; tanggal putusan: 24; identitas terdakwa: 1; berat barang bukti: 6; barang bukti: 22, 26, 28; tuntutan: 3; pasal terbukti, vonis, dan denda: 28; keadaan memberatkan dan meringankan: 27",putusan_107_pid.sus_2021_pn_kdl_20261105221745.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P031,caseId,P031,putusan_108_pid.sus_2021_pn_kdl_20261105221741.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P031,nomorPerkara,108/Pid.Sus/2021/PN Kdl,putusan_108_pid.sus_2021_pn_kdl_20261105221741.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P031,pengadilan,Pengadilan Negeri Kendal,putusan_108_pid.sus_2021_pn_kdl_20261105221741.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P031,tanggalPutusan,2021-09-14,putusan_108_pid.sus_2021_pn_kdl_20261105221741.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P031,terdakwaKode,Terdakwa-081,putusan_108_pid.sus_2021_pn_kdl_20261105221741.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P031,jenisNarkotika,Sabu (Metamfetamina),putusan_108_pid.sus_2021_pn_kdl_20261105221741.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P031,beratBarangBuktiGram,1.38855,putusan_108_pid.sus_2021_pn_kdl_20261105221741.pdf,5,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P031,pasalDakwaan,"Pasal 112 ayat (1), Pasal 114 ayat (1), dan Pasal 127 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.",putusan_108_pid.sus_2021_pn_kdl_20261105221741.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P031,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_108_pid.sus_2021_pn_kdl_20261105221741.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P031,vonisBulan,68,putusan_108_pid.sus_2021_pn_kdl_20261105221741.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P031,dendaRupiah,800000000,putusan_108_pid.sus_2021_pn_kdl_20261105221741.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P031,barangBukti,"Serbuk kristal sabu dengan berat bersih 1,38855 gram dan barang pendukung lainnya.",putusan_108_pid.sus_2021_pn_kdl_20261105221741.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P031,keadaanMemberatkan,"Perbuatan terdakwa tidak mendukung program pemerintah untuk mencegah dan memberantas penyalahgunaan serta peredaran narkotika yang merugikan masyarakat, bangsa, dan negara.",putusan_108_pid.sus_2021_pn_kdl_20261105221741.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P031,keadaanMeringankan,"Terdakwa mengakui perbuatannya, menyesali perbuatannya, berjanji tidak mengulangi, dan bersikap sopan selama persidangan.",putusan_108_pid.sus_2021_pn_kdl_20261105221741.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P031,sourcePages,"Nomor perkara: 1; tanggal putusan: 25; berat barang bukti: 7; barang bukti: 16, 21, 23-24; keadaan memberatkan dan meringankan: 24; vonis dan denda: bagian amar putusan",putusan_108_pid.sus_2021_pn_kdl_20261105221741.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,caseId,P032,putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,nomorPerkara,112/Pid.Sus/2025/PN Kdl,putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,pengadilan,Pengadilan Negeri Kendal,putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,tanggalPutusan,2025-08-14,putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,31,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,terdakwaKode,Terdakwa-082,putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,jenisNarkotika,Sabu (Metamfetamina),putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,beratBarangBuktiGram,0.21285,putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,tuntutanBulan,96,putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,vonisBulan,84,putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,31,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,dendaRupiah,1000000000,putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,barangBukti,"Serbuk kristal sabu dengan berat bersih 0,21285 gram, handphone, dan barang pendukung lainnya.",putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam mengatasi penyalahgunaan narkoba dan terdakwa pernah dihukum dalam perkara narkotika.,putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,keadaanMeringankan,"Terdakwa bersikap sopan di persidangan, menyesali perbuatannya, dan berjanji tidak akan mengulanginya.",putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P032,sourcePages,"Nomor perkara: 1; tanggal putusan: 31; identitas terdakwa: 1; berat barang bukti: 10; barang bukti: 22, 30-31; keadaan memberatkan dan meringankan: 30; tuntutan dan vonis: bagian tuntutan dan amar putusan",putusan_112_pid.sus_2025_pn_kdl_20261105221904.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P033,caseId,P033,putusan_128_pid.sus_2024_pn_kdl_20261105220253.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P033,nomorPerkara,128/Pid.Sus/2024/PN Kdl,putusan_128_pid.sus_2024_pn_kdl_20261105220253.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P033,pengadilan,Pengadilan Negeri Kendal,putusan_128_pid.sus_2024_pn_kdl_20261105220253.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P033,tanggalPutusan,2024-12-09,putusan_128_pid.sus_2024_pn_kdl_20261105220253.pdf,43,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P033,terdakwaKode,Terdakwa-083,putusan_128_pid.sus_2024_pn_kdl_20261105220253.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P033,jenisNarkotika,Sabu (Metamfetamina),putusan_128_pid.sus_2024_pn_kdl_20261105220253.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P033,beratBarangBuktiGram,1.44490,putusan_128_pid.sus_2024_pn_kdl_20261105220253.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P033,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_128_pid.sus_2024_pn_kdl_20261105220253.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P033,pasalTerbukti,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_128_pid.sus_2024_pn_kdl_20261105220253.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P033,vonisBulan,84,putusan_128_pid.sus_2024_pn_kdl_20261105220253.pdf,42,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P033,dendaRupiah,1000000000,putusan_128_pid.sus_2024_pn_kdl_20261105220253.pdf,42,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P033,barangBukti,"Empat paket berisi serbuk kristal putih yang diduga sabu dengan berat bersih 1,44490 gram.",putusan_128_pid.sus_2024_pn_kdl_20261105220253.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P033,keadaanMemberatkan,"Perbuatan terdakwa meresahkan masyarakat, tidak mendukung program pemerintah dalam mengatasi penyalahgunaan narkoba, dan terdakwa pernah dihukum dalam perkara narkotika.",putusan_128_pid.sus_2024_pn_kdl_20261105220253.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P033,keadaanMeringankan,"Terdakwa bersikap sopan, berterus terang, menyesali perbuatannya, berjanji tidak mengulangi, dan merupakan tulang punggung keluarga.",putusan_128_pid.sus_2024_pn_kdl_20261105220253.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P033,sourcePages,Nomor perkara: 1; tanggal putusan: 43; identitas terdakwa: 1; berat barang bukti: bagian uraian barang bukti; keadaan memberatkan dan meringankan: 42; vonis dan denda: bagian amar putusan,putusan_128_pid.sus_2024_pn_kdl_20261105220253.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P034,caseId,P034,putusan_129_pid.sus_2024_pn_kdl_20261105220505.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P034,nomorPerkara,129/Pid.Sus/2024/PN Kdl,putusan_129_pid.sus_2024_pn_kdl_20261105220505.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P034,pengadilan,Pengadilan Negeri Kendal,putusan_129_pid.sus_2024_pn_kdl_20261105220505.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P034,tanggalPutusan,2024-12-09,putusan_129_pid.sus_2024_pn_kdl_20261105220505.pdf,36,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P034,terdakwaKode,Terdakwa-084,putusan_129_pid.sus_2024_pn_kdl_20261105220505.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P034,jenisNarkotika,Sabu (Metamfetamina),putusan_129_pid.sus_2024_pn_kdl_20261105220505.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P034,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_129_pid.sus_2024_pn_kdl_20261105220505.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P034,pasalTerbukti,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_129_pid.sus_2024_pn_kdl_20261105220505.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P034,vonisBulan,84,putusan_129_pid.sus_2024_pn_kdl_20261105220505.pdf,35,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P034,dendaRupiah,1000000000,putusan_129_pid.sus_2024_pn_kdl_20261105220505.pdf,35,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P034,barangBukti,"Timbangan digital, alat hisap sabu, plastik klip, tube urine, handphone, dan barang pendukung lainnya.",putusan_129_pid.sus_2024_pn_kdl_20261105220505.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P034,keadaanMeringankan,"Terdakwa menyesali perbuatannya, berjanji tidak mengulanginya, dan merupakan tulang punggung keluarga.",putusan_129_pid.sus_2024_pn_kdl_20261105220505.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P034,sourcePages,"Nomor perkara: 1; tanggal putusan: 36; barang bukti: 34, 36; keadaan meringankan: 34; vonis dan denda: bagian amar putusan",putusan_129_pid.sus_2024_pn_kdl_20261105220505.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P035,caseId,P035,putusan_131_pid.sus_2024_pn_kdl_20261105220229.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P035,nomorPerkara,131/Pid.Sus/2024/PN Kdl,putusan_131_pid.sus_2024_pn_kdl_20261105220229.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P035,pengadilan,Pengadilan Negeri Kendal,putusan_131_pid.sus_2024_pn_kdl_20261105220229.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P035,tanggalPutusan,2024-11-29,putusan_131_pid.sus_2024_pn_kdl_20261105220229.pdf,26,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P035,terdakwaKode,Terdakwa-085,putusan_131_pid.sus_2024_pn_kdl_20261105220229.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P035,jenisNarkotika,Sabu (Metamfetamina),putusan_131_pid.sus_2024_pn_kdl_20261105220229.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P035,beratBarangBuktiGram,13.47801,putusan_131_pid.sus_2024_pn_kdl_20261105220229.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P035,pasalDakwaan,Pasal 132 ayat (1) jo. Pasal 114 ayat (2) dan Pasal 132 ayat (1) jo. Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_131_pid.sus_2024_pn_kdl_20261105220229.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P035,pasalTerbukti,Pasal 132 ayat (1) jo. Pasal 112 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_131_pid.sus_2024_pn_kdl_20261105220229.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P035,vonisBulan,72,putusan_131_pid.sus_2024_pn_kdl_20261105220229.pdf,26,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P035,dendaRupiah,1000000000,putusan_131_pid.sus_2024_pn_kdl_20261105220229.pdf,26,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P035,barangBukti,"Dua paket sabu dalam plastik klip bening yang dibungkus tisu dan dililit lakban cokelat, dengan berat netto 13,47801 gram.",putusan_131_pid.sus_2024_pn_kdl_20261105220229.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P035,keadaanMemberatkan,"Perbuatan terdakwa meresahkan masyarakat, tidak mendukung program pemerintah dalam mengatasi penyalahgunaan narkoba, dan terdakwa pernah dihukum sebelumnya.",putusan_131_pid.sus_2024_pn_kdl_20261105220229.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P035,keadaanMeringankan,"Terdakwa bersikap sopan, berterus terang, menyesali perbuatannya, dan berjanji tidak akan mengulangi perbuatannya.",putusan_131_pid.sus_2024_pn_kdl_20261105220229.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P035,sourcePages,"Nomor perkara: 1; tanggal putusan: 26; identitas terdakwa: 1; berat barang bukti: 17, 19, 22, 24-26; keadaan memberatkan dan meringankan: 25; vonis dan denda: 25-26",putusan_131_pid.sus_2024_pn_kdl_20261105220229.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,caseId,P036,putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,nomorPerkara,132/Pid.Sus/2024/PN Kdl,putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,pengadilan,Pengadilan Negeri Kendal,putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,tanggalPutusan,2024-11-29,putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,31,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,terdakwaKode,Terdakwa-086,putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,jenisNarkotika,Sabu (Metamfetamina),putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,beratBarangBuktiGram,13.47801,putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,3,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,pasalDakwaan,Pasal 132 ayat (1) jo. Pasal 114 ayat (2) dan subsidair Pasal 132 ayat (1) jo. Pasal 112 ayat (2) UU No. 35 Tahun 2009.,putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,pasalTerbukti,Pasal 132 ayat (1) jo. Pasal 112 ayat (2) UU No. 35 Tahun 2009.,putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,tuntutanBulan,60,putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,vonisBulan,60,putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,31,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,dendaRupiah,1000000000,putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,31,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,barangBukti,"Dua paket sabu dalam plastik klip bening yang dibungkus tisu putih dan dililit lakban cokelat, dengan berat netto 13,47801 gram.",putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat dan tidak mendukung program pemerintah dalam mengatasi penyalahgunaan narkotika.,putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,keadaanMeringankan,"Terdakwa belum pernah dihukum, bersikap sopan di persidangan, berterus terang, menyesali perbuatannya, dan berjanji tidak mengulangi.",putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P036,sourcePages,"Nomor perkara dan identitas: 1; tanggal putusan: 31; tuntutan: 2-3; berat dan barang bukti: 8, 31; keadaan memberatkan dan meringankan: 30; amar putusan: 31-32",putusan_132_pid.sus_2024_pn_kdl_20261105220241.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,caseId,P037,putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,nomorPerkara,137/Pid.Sus/2025/PN Kdl,putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,pengadilan,Pengadilan Negeri Kendal,putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,tanggalPutusan,2025-09-30,putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,29,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,terdakwaKode,Terdakwa-087,putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,jenisNarkotika,Sabu (Metamfetamina),putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,beratBarangBuktiGram,5.49010,putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,pasalDakwaan,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,tuntutanBulan,96,putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,vonisBulan,84,putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,28,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,dendaRupiah,1000000000,putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,28,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,barangBukti,"Barang bukti sabu dengan berat bersih 5,49010 gram dan barang pendukung lainnya.",putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,keadaanMemberatkan,"Perbuatan terdakwa meresahkan masyarakat, berpotensi menghancurkan masa depan anak bangsa, dan tidak mendukung program pemerintah dalam memberantas narkotika.",putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,keadaanMeringankan,"Terdakwa mengakui terus terang perbuatannya, sopan di persidangan, dan merupakan tulang punggung keluarga.",putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P037,sourcePages,Nomor perkara dan identitas: 1; tanggal putusan: 29; berat barang bukti: 16; tuntutan: bagian tuntutan; keadaan memberatkan dan meringankan: 28; amar putusan: 29,putusan_137_pid.sus_2025_pn_kdl_20261105221839.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,caseId,P038,putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,nomorPerkara,138/Pid.Sus/2025/PN Kdl,putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,pengadilan,Pengadilan Negeri Kendal,putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,tanggalPutusan,2025-09-30,putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,22,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,terdakwaKode,Terdakwa-088,putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,jenisNarkotika,Sabu (Metamfetamina),putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,beratBarangBuktiGram,0.00839,putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,pasalDakwaan,Pasal 114 ayat (1) dan Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,tuntutanBulan,84,putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,vonisBulan,60,putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,21,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,dendaRupiah,1000000000,putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,21,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,barangBukti,"Sabu bekas pakai dengan berat bersih 0,00839 gram dan barang pendukung lainnya.",putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat dan tidak mendukung program pemerintah yang sedang gencar mengatasi penyalahgunaan narkotika.,putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,keadaanMeringankan,"Terdakwa mengakui terus terang perbuatannya, sopan di persidangan, dan merupakan tulang punggung keluarga.",putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P038,sourcePages,Nomor perkara dan identitas: 1; tanggal putusan: 22; berat barang bukti: 2; tuntutan: bagian tuntutan; keadaan memberatkan dan meringankan: 21; amar putusan: 22,putusan_138_pid.sus_2025_pn_kdl_20261105221827.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P039,caseId,P039,putusan_139_pid.sus_2025_pn_kdl_20261105221815.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P039,nomorPerkara,139/Pid.Sus/2025/PN Kdl,putusan_139_pid.sus_2025_pn_kdl_20261105221815.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P039,pengadilan,Pengadilan Negeri Kendal,putusan_139_pid.sus_2025_pn_kdl_20261105221815.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P039,tanggalPutusan,2025-09-29,putusan_139_pid.sus_2025_pn_kdl_20261105221815.pdf,21,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P039,terdakwaKode,Terdakwa-089,putusan_139_pid.sus_2025_pn_kdl_20261105221815.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P039,jenisNarkotika,Sabu (Metamfetamina),putusan_139_pid.sus_2025_pn_kdl_20261105221815.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P039,beratBarangBuktiGram,0.18177,putusan_139_pid.sus_2025_pn_kdl_20261105221815.pdf,4,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P039,pasalDakwaan,Pasal 112 ayat (1) dan Pasal 127 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_139_pid.sus_2025_pn_kdl_20261105221815.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P039,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika.,putusan_139_pid.sus_2025_pn_kdl_20261105221815.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P039,vonisBulan,30,putusan_139_pid.sus_2025_pn_kdl_20261105221815.pdf,21,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P039,dendaRupiah,0,putusan_139_pid.sus_2025_pn_kdl_20261105221815.pdf,20,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P039,barangBukti,"Satu bungkus klip plastik kecil berisi serbuk kristal dengan berat bersih 0,18177 gram dan satu handphone.",putusan_139_pid.sus_2025_pn_kdl_20261105221815.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P039,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah yang sedang gencar mengatasi penyalahgunaan narkoba.,putusan_139_pid.sus_2025_pn_kdl_20261105221815.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P039,keadaanMeringankan,"Terdakwa bersikap sopan di persidangan, menyesali perbuatannya, dan berjanji tidak akan mengulangi perbuatannya.",putusan_139_pid.sus_2025_pn_kdl_20261105221815.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P039,sourcePages,Nomor perkara dan identitas: 1; tanggal putusan: 21; barang bukti: 20-21; keadaan memberatkan dan meringankan: 20; amar putusan: 21-22,putusan_139_pid.sus_2025_pn_kdl_20261105221815.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,caseId,P040,putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,nomorPerkara,141/Pid.Sus/2025/PN Kdl,putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,pengadilan,Pengadilan Negeri Kendal,putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,tanggalPutusan,2025-10-07,putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,24,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,terdakwaKode,Terdakwa-090,putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,jenisNarkotika,Sabu (Metamfetamina),putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,beratBarangBuktiGram,0.06227,putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,5,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 55 ayat (1) ke-1 dan Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,pasalTerbukti,Pasal 114 ayat (1) jo. Pasal 55 ayat (1) ke-1 UU No. 35 Tahun 2009 tentang Narkotika.,putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,tuntutanBulan,96,putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,vonisBulan,90,putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,24,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,dendaRupiah,1000000000,putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,24,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,barangBukti,"Satu paket sabu dalam plastik klip bening dengan berat bersih 0,06227 gram, urine dalam botol plastik, handphone, dan sepeda motor.",putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,keadaanMemberatkan,"Perbuatan terdakwa meresahkan masyarakat, berpotensi menghancurkan masa depan anak bangsa, tidak mendukung program pemerintah dalam memberantas narkotika, dan terdakwa pernah dihukum dalam perkara sejenis.",putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,keadaanMeringankan,"Terdakwa mengakui terus terang perbuatannya, sopan di persidangan, dan merupakan tulang punggung keluarga.",putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P040,sourcePages,Nomor perkara dan identitas: 1; tanggal putusan: 24; berat barang bukti: 2; tuntutan: 1-2; keadaan memberatkan dan meringankan: 23; amar putusan: 24,putusan_141_pid.sus_2025_pn_kdl_20261105221754.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P044,caseId,P044,putusan_159_pid.sus_2025_pn_kdl_20261105215641.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P044,nomorPerkara,159/Pid.Sus/2025/PN Kdl,putusan_159_pid.sus_2025_pn_kdl_20261105215641.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P044,pengadilan,Pengadilan Negeri Kendal,putusan_159_pid.sus_2025_pn_kdl_20261105215641.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P044,tanggalPutusan,2025-11-03,putusan_159_pid.sus_2025_pn_kdl_20261105215641.pdf,30,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P044,terdakwaKode,Terdakwa-094,putusan_159_pid.sus_2025_pn_kdl_20261105215641.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P044,jenisNarkotika,Sabu (Metamfetamina),putusan_159_pid.sus_2025_pn_kdl_20261105215641.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P044,beratBarangBuktiGram,1.47954,putusan_159_pid.sus_2025_pn_kdl_20261105215641.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P044,pasalDakwaan,Pasal 112 ayat (1) dan Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_159_pid.sus_2025_pn_kdl_20261105215641.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P044,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_159_pid.sus_2025_pn_kdl_20261105215641.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P044,vonisBulan,84,putusan_159_pid.sus_2025_pn_kdl_20261105215641.pdf,30,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P044,dendaRupiah,800000000,putusan_159_pid.sus_2025_pn_kdl_20261105215641.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P044,barangBukti,"Empat paket sabu dengan berat bersih masing-masing 0,59270 gram, 0,27878 gram, 0,28647 gram, dan 0,32159 gram; alat hisap dengan sisa sabu dan barang pendukung lainnya.",putusan_159_pid.sus_2025_pn_kdl_20261105215641.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P044,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam mengatasi penyalahgunaan narkoba dan terdakwa pernah dihukum serta menjalani pidana dalam perkara narkotika.,putusan_159_pid.sus_2025_pn_kdl_20261105215641.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P044,keadaanMeringankan,Terdakwa bersikap sopan di persidangan.,putusan_159_pid.sus_2025_pn_kdl_20261105215641.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P044,sourcePages,"Nomor perkara: 1; tanggal putusan: 30; identitas terdakwa: 1; berat barang bukti: 3, 6, 8; barang bukti: 23, 27-30; keadaan memberatkan dan meringankan: 29; vonis dan denda: bagian amar putusan",putusan_159_pid.sus_2025_pn_kdl_20261105215641.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P045,caseId,P045,putusan_173_pid.sus_2025_pn_kdl_20261105215630.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P045,nomorPerkara,173/Pid.Sus/2025/PN Kdl,putusan_173_pid.sus_2025_pn_kdl_20261105215630.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P045,pengadilan,Pengadilan Negeri Kendal,putusan_173_pid.sus_2025_pn_kdl_20261105215630.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P045,tanggalPutusan,2025-12-12,putusan_173_pid.sus_2025_pn_kdl_20261105215630.pdf,36,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P045,terdakwaKode,Terdakwa-095,putusan_173_pid.sus_2025_pn_kdl_20261105215630.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P045,jenisNarkotika,Sabu (Metamfetamina),putusan_173_pid.sus_2025_pn_kdl_20261105215630.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P045,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 55 ayat (1) ke-1 UU No. 35 Tahun 2009 tentang Narkotika.,putusan_173_pid.sus_2025_pn_kdl_20261105215630.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P045,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 55 ayat (1) ke-1 UU No. 35 Tahun 2009 tentang Narkotika.,putusan_173_pid.sus_2025_pn_kdl_20261105215630.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P045,vonisBulan,120,putusan_173_pid.sus_2025_pn_kdl_20261105215630.pdf,35,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P045,dendaRupiah,1000000000,putusan_173_pid.sus_2025_pn_kdl_20261105215630.pdf,35,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P045,barangBukti,"Sejumlah paket sabu dengan berat bersih yang tercantum dalam hasil pemeriksaan laboratorium, handphone, dan barang pendukung lainnya.",putusan_173_pid.sus_2025_pn_kdl_20261105215630.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P045,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat.,putusan_173_pid.sus_2025_pn_kdl_20261105215630.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P045,keadaanMeringankan,Terdakwa mengakui terus terang perbuatannya dan bersikap sopan di persidangan.,putusan_173_pid.sus_2025_pn_kdl_20261105215630.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P045,sourcePages,"Nomor perkara: 1; tanggal putusan: 36; identitas terdakwa: 1; berat barang bukti: 7-8, 13-14; barang bukti: 34-35; keadaan memberatkan dan meringankan: 34-35; vonis dan denda: bagian amar putusan",putusan_173_pid.sus_2025_pn_kdl_20261105215630.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P046,caseId,P046,putusan_175_pid.sus_2025_pn_kdl_20261105215628.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P046,nomorPerkara,175/Pid.Sus/2025/PN Kdl,putusan_175_pid.sus_2025_pn_kdl_20261105215628.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P046,pengadilan,Pengadilan Negeri Kendal,putusan_175_pid.sus_2025_pn_kdl_20261105215628.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P046,tanggalPutusan,2026-01-12,putusan_175_pid.sus_2025_pn_kdl_20261105215628.pdf,22,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P046,terdakwaKode,Terdakwa-096,putusan_175_pid.sus_2025_pn_kdl_20261105215628.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P046,jenisNarkotika,Sabu (Metamfetamina),putusan_175_pid.sus_2025_pn_kdl_20261105215628.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P046,beratBarangBuktiGram,0.29446,putusan_175_pid.sus_2025_pn_kdl_20261105215628.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P046,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_175_pid.sus_2025_pn_kdl_20261105215628.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P046,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_175_pid.sus_2025_pn_kdl_20261105215628.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P046,vonisBulan,36,putusan_175_pid.sus_2025_pn_kdl_20261105215628.pdf,21,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P046,dendaRupiah,1000000000,putusan_175_pid.sus_2025_pn_kdl_20261105215628.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P046,barangBukti,"Potongan sedotan plastik warna merah berisi serbuk kristal sabu dengan berat bersih 0,29446 gram dan barang pendukung lainnya.",putusan_175_pid.sus_2025_pn_kdl_20261105215628.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P046,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah untuk memberantas peredaran gelap narkotika dan penyalahgunaan narkotika.,putusan_175_pid.sus_2025_pn_kdl_20261105215628.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P046,keadaanMeringankan,"Terdakwa sopan dan berterus terang di persidangan, menyesali perbuatannya, berjanji tidak mengulangi, dan belum pernah dihukum.",putusan_175_pid.sus_2025_pn_kdl_20261105215628.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P046,sourcePages,Nomor perkara: 1; tanggal putusan: 22; identitas terdakwa: 1; berat barang bukti: 2; keadaan memberatkan dan meringankan: 21; amar putusan: 22,putusan_175_pid.sus_2025_pn_kdl_20261105215628.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P047,caseId,P047,putusan_176_pid.sus_2025_pn_kdl_20261105215633.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P047,nomorPerkara,176/Pid.Sus/2025/PN Kdl,putusan_176_pid.sus_2025_pn_kdl_20261105215633.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P047,pengadilan,Pengadilan Negeri Kendal,putusan_176_pid.sus_2025_pn_kdl_20261105215633.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P047,tanggalPutusan,2025-12-30,putusan_176_pid.sus_2025_pn_kdl_20261105215633.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P047,terdakwaKode,Terdakwa-097,putusan_176_pid.sus_2025_pn_kdl_20261105215633.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P047,jenisNarkotika,Sabu (Metamfetamina),putusan_176_pid.sus_2025_pn_kdl_20261105215633.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P047,beratBarangBuktiGram,0.40822,putusan_176_pid.sus_2025_pn_kdl_20261105215633.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P047,pasalDakwaan,"Pasal 114 ayat (1), Pasal 112 ayat (1), dan Pasal 127 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.",putusan_176_pid.sus_2025_pn_kdl_20261105215633.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P047,pasalTerbukti,Pasal 127 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_176_pid.sus_2025_pn_kdl_20261105215633.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P047,vonisBulan,30,putusan_176_pid.sus_2025_pn_kdl_20261105215633.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P047,dendaRupiah,0,putusan_176_pid.sus_2025_pn_kdl_20261105215633.pdf,24,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P047,barangBukti,"Satu paket sabu dengan berat bersih 0,40822 gram, pipet kaca bekas pakai dengan sisa sabu 0,00845 gram, dan barang pendukung lainnya.",putusan_176_pid.sus_2025_pn_kdl_20261105215633.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P047,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah untuk memberantas narkotika dan dapat merusak moral generasi bangsa.,putusan_176_pid.sus_2025_pn_kdl_20261105215633.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P047,keadaanMeringankan,"Terdakwa menyesali perbuatannya, sopan di persidangan, serta berterus terang dan tidak berbelit-belit dalam memberikan keterangan.",putusan_176_pid.sus_2025_pn_kdl_20261105215633.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P047,sourcePages,Nomor perkara: 1; tanggal putusan: 25; identitas terdakwa: 1; berat barang bukti: 8; keadaan memberatkan dan meringankan: 24; amar putusan: 25-26,putusan_176_pid.sus_2025_pn_kdl_20261105215633.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P048,caseId,P048,putusan_179_pid.sus_2025_pn_kdl_20261105215638.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P048,nomorPerkara,179/Pid.Sus/2025/PN Kdl,putusan_179_pid.sus_2025_pn_kdl_20261105215638.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P048,pengadilan,Pengadilan Negeri Kendal,putusan_179_pid.sus_2025_pn_kdl_20261105215638.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P048,tanggalPutusan,2025-12-30,putusan_179_pid.sus_2025_pn_kdl_20261105215638.pdf,19,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P048,terdakwaKode,Terdakwa-098,putusan_179_pid.sus_2025_pn_kdl_20261105215638.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P048,jenisNarkotika,Sabu (Metamfetamina),putusan_179_pid.sus_2025_pn_kdl_20261105215638.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P048,beratBarangBuktiGram,0.68101,putusan_179_pid.sus_2025_pn_kdl_20261105215638.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P048,pasalDakwaan,Pasal 112 ayat (1) dan Pasal 127 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_179_pid.sus_2025_pn_kdl_20261105215638.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P048,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_179_pid.sus_2025_pn_kdl_20261105215638.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P048,vonisBulan,48,putusan_179_pid.sus_2025_pn_kdl_20261105215638.pdf,19,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P048,dendaRupiah,800000000,putusan_179_pid.sus_2025_pn_kdl_20261105215638.pdf,19,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P048,barangBukti,"Tiga paket sabu dengan berat bersih masing-masing 0,50443 gram, 0,08997 gram, dan 0,08661 gram, serta barang pendukung lainnya.",putusan_179_pid.sus_2025_pn_kdl_20261105215638.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P048,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemberantasan penyalahgunaan narkotika dan obat terlarang.,putusan_179_pid.sus_2025_pn_kdl_20261105215638.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P048,sourcePages,"Nomor perkara: 1; tanggal putusan: 19; identitas terdakwa: 1; berat barang bukti: 10-13, 17-19; keadaan memberatkan: 18; amar putusan: 19-20",putusan_179_pid.sus_2025_pn_kdl_20261105215638.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,caseId,P049,putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,nomorPerkara,181/Pid.Sus/2025/PN Kdl,putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,pengadilan,Pengadilan Negeri Kendal,putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,tanggalPutusan,2026-01-12,putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,17,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,terdakwaKode,Terdakwa-099,putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,jenisNarkotika,Sabu (Metamfetamina),putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,beratBarangBuktiGram,0.25769,putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,4,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,pasalDakwaan,Pasal 112 ayat (1) dan Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,tuntutanBulan,60,putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,vonisBulan,42,putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,17,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,dendaRupiah,0,putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,17,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,barangBukti,"Satu paket narkotika golongan I jenis sabu dalam plastik klip yang dibalut isolasi warna krem dengan berat bersih keseluruhan 0,25769 gram, handphone, dan barang pendukung lainnya.",putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah untuk memberantas peredaran gelap narkotika dan penyalahgunaan narkotika; terdakwa pernah dihukum.,putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,keadaanMeringankan,"Terdakwa sopan dan berterus terang di persidangan, menyesali perbuatannya, serta berjanji tidak akan mengulangi.",putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P049,sourcePages,Nomor perkara: 1; tanggal putusan: 17; identitas terdakwa: 1; berat barang bukti: 16-17; tuntutan: bagian tuntutan; keadaan memberatkan dan meringankan: 16; amar putusan: 17-18,putusan_181_pid.sus_2025_pn_kdl_20261105215339.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P051,caseId,P051,putusan_193_pid.sus_2025_pn_kdl_20261105215334.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P051,nomorPerkara,193/Pid.Sus/2025/PN Kdl,putusan_193_pid.sus_2025_pn_kdl_20261105215334.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P051,pengadilan,Pengadilan Negeri Kendal,putusan_193_pid.sus_2025_pn_kdl_20261105215334.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P051,tanggalPutusan,2026-01-12,putusan_193_pid.sus_2025_pn_kdl_20261105215334.pdf,26,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P051,terdakwaKode,Terdakwa-101,putusan_193_pid.sus_2025_pn_kdl_20261105215334.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P051,jenisNarkotika,Sabu (Metamfetamina),putusan_193_pid.sus_2025_pn_kdl_20261105215334.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P051,beratBarangBuktiGram,0.35194,putusan_193_pid.sus_2025_pn_kdl_20261105215334.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P051,pasalDakwaan,Pasal 127 ayat (1) dan Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_193_pid.sus_2025_pn_kdl_20261105215334.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P051,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_193_pid.sus_2025_pn_kdl_20261105215334.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P051,vonisBulan,42,putusan_193_pid.sus_2025_pn_kdl_20261105215334.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P051,dendaRupiah,0,putusan_193_pid.sus_2025_pn_kdl_20261105215334.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P051,barangBukti,"Satu plastik klip berisi sabu dengan berat bersih 0,35126 gram dan sisa sabu pada alat hisap dengan berat bersih 0,00068 gram.",putusan_193_pid.sus_2025_pn_kdl_20261105215334.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P051,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam memberantas narkotika; terdakwa pernah dihukum dalam perkara narkotika.,putusan_193_pid.sus_2025_pn_kdl_20261105215334.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P051,keadaanMeringankan,Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulangi perbuatannya.,putusan_193_pid.sus_2025_pn_kdl_20261105215334.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P051,sourcePages,"Nomor perkara: 1; tanggal putusan: 26; identitas terdakwa: 1; berat barang bukti: 4, 24-25; keadaan memberatkan dan meringankan: 24-25; amar putusan: 25-26",putusan_193_pid.sus_2025_pn_kdl_20261105215334.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P052,caseId,P052,putusan_194_pid.sus_2025_pn_kdl_20261105215637.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P052,nomorPerkara,194/Pid.Sus/2025/PN Kdl,putusan_194_pid.sus_2025_pn_kdl_20261105215637.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P052,pengadilan,Pengadilan Negeri Kendal,putusan_194_pid.sus_2025_pn_kdl_20261105215637.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P052,tanggalPutusan,2025-12-29,putusan_194_pid.sus_2025_pn_kdl_20261105215637.pdf,29,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P052,terdakwaKode,Terdakwa-102,putusan_194_pid.sus_2025_pn_kdl_20261105215637.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P052,jenisNarkotika,Sabu (Metamfetamina),putusan_194_pid.sus_2025_pn_kdl_20261105215637.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P052,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_194_pid.sus_2025_pn_kdl_20261105215637.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P052,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_194_pid.sus_2025_pn_kdl_20261105215637.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P052,tuntutanBulan,108,putusan_194_pid.sus_2025_pn_kdl_20261105215637.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P052,vonisBulan,72,putusan_194_pid.sus_2025_pn_kdl_20261105215637.pdf,28,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P052,dendaRupiah,1000000000,putusan_194_pid.sus_2025_pn_kdl_20261105215637.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P052,barangBukti,Paket-paket sabu dalam plastik klip dan barang pendukung lainnya.,putusan_194_pid.sus_2025_pn_kdl_20261105215637.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P052,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam memberantas narkotika; terdakwa pernah dihukum dalam perkara narkotika.,putusan_194_pid.sus_2025_pn_kdl_20261105215637.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P052,keadaanMeringankan,Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulangi perbuatannya.,putusan_194_pid.sus_2025_pn_kdl_20261105215637.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P052,sourcePages,"Nomor perkara: 1; tanggal putusan: 29; identitas terdakwa: 1; berat barang bukti: 7, 26; keadaan memberatkan dan meringankan: 28; tuntutan: bagian tuntutan; amar putusan: 29",putusan_194_pid.sus_2025_pn_kdl_20261105215637.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P053,caseId,P053,putusan_196_pid.sus_2025_pn_kdl_20261105215324.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P053,nomorPerkara,196/Pid.Sus/2025/PN Kdl,putusan_196_pid.sus_2025_pn_kdl_20261105215324.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P053,pengadilan,Pengadilan Negeri Kendal,putusan_196_pid.sus_2025_pn_kdl_20261105215324.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P053,tanggalPutusan,2026-01-26,putusan_196_pid.sus_2025_pn_kdl_20261105215324.pdf,33,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P053,terdakwaKode,Terdakwa-103,putusan_196_pid.sus_2025_pn_kdl_20261105215324.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P053,jenisNarkotika,Sabu (Metamfetamina),putusan_196_pid.sus_2025_pn_kdl_20261105215324.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P053,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 55 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_196_pid.sus_2025_pn_kdl_20261105215324.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P053,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_196_pid.sus_2025_pn_kdl_20261105215324.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P053,vonisBulan,42,putusan_196_pid.sus_2025_pn_kdl_20261105215324.pdf,32,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P053,dendaRupiah,0,putusan_196_pid.sus_2025_pn_kdl_20261105215324.pdf,32,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P053,barangBukti,"Lima paket sabu dalam plastik klip bening dililit lakban bening dengan berat netto yang tercantum dalam putusan sebesar 1,21218 gram, serta barang pendukung lainnya.",putusan_196_pid.sus_2025_pn_kdl_20261105215324.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P053,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah untuk memberantas narkotika dan dapat merusak moral generasi bangsa.,putusan_196_pid.sus_2025_pn_kdl_20261105215324.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P053,keadaanMeringankan,"Terdakwa menyesali perbuatannya, sopan di persidangan, serta berterus terang dan tidak berbelit-belit dalam memberikan keterangan.",putusan_196_pid.sus_2025_pn_kdl_20261105215324.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P053,sourcePages,Nomor perkara: 1; tanggal putusan: 33; identitas terdakwa: 1; barang bukti: 30-32; keadaan memberatkan dan meringankan: 31; amar putusan: 32-33,putusan_196_pid.sus_2025_pn_kdl_20261105215324.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P055,caseId,P055,putusan_203_pid.sus_2025_pn_kdl_20261105215259.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P055,nomorPerkara,203/Pid.Sus/2025/PN Kdl,putusan_203_pid.sus_2025_pn_kdl_20261105215259.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P055,pengadilan,Pengadilan Negeri Kendal,putusan_203_pid.sus_2025_pn_kdl_20261105215259.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P055,tanggalPutusan,2026-02-05,putusan_203_pid.sus_2025_pn_kdl_20261105215259.pdf,52,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P055,terdakwaKode,Terdakwa-105,putusan_203_pid.sus_2025_pn_kdl_20261105215259.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P055,jenisNarkotika,Sabu (Metamfetamina),putusan_203_pid.sus_2025_pn_kdl_20261105215259.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P055,pasalDakwaan,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_203_pid.sus_2025_pn_kdl_20261105215259.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P055,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_203_pid.sus_2025_pn_kdl_20261105215259.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P055,tuntutanBulan,60,putusan_203_pid.sus_2025_pn_kdl_20261105215259.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P055,vonisBulan,54,putusan_203_pid.sus_2025_pn_kdl_20261105215259.pdf,51,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P055,dendaRupiah,0,putusan_203_pid.sus_2025_pn_kdl_20261105215259.pdf,51,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P055,barangBukti,"Dua puluh empat bungkus plastik klip berisi sabu dengan berat bersih 5,74765 gram, serta beberapa paket sabu berkode A, B, C, dan D dengan berat bersih yang tercantum dalam hasil pemeriksaan laboratorium.",putusan_203_pid.sus_2025_pn_kdl_20261105215259.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P055,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah untuk memberantas narkotika dan dapat merusak moral generasi bangsa.,putusan_203_pid.sus_2025_pn_kdl_20261105215259.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P055,keadaanMeringankan,"Terdakwa menyesali perbuatannya, sopan di persidangan, serta berterus terang dan tidak berbelit-belit dalam memberikan keterangan.",putusan_203_pid.sus_2025_pn_kdl_20261105215259.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P055,sourcePages,Nomor perkara: 1; tanggal putusan: 52; identitas terdakwa: 1; berat barang bukti: 49-51; keadaan memberatkan dan meringankan: 50; amar putusan: 51-52,putusan_203_pid.sus_2025_pn_kdl_20261105215259.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P056,caseId,P056,putusan_7_pid.sus_2026_pn_kdl_20261105215318.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P056,nomorPerkara,7/Pid.Sus/2026/PN Kdl,putusan_7_pid.sus_2026_pn_kdl_20261105215318.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P056,pengadilan,Pengadilan Negeri Kendal,putusan_7_pid.sus_2026_pn_kdl_20261105215318.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P056,tanggalPutusan,2026-02-11,putusan_7_pid.sus_2026_pn_kdl_20261105215318.pdf,32,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P056,terdakwaKode,Terdakwa-106,putusan_7_pid.sus_2026_pn_kdl_20261105215318.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P056,jenisNarkotika,Tembakau sintetis (MDMB-4en PINACA) dan pil berlogo Y,putusan_7_pid.sus_2026_pn_kdl_20261105215318.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P056,pasalDakwaan,Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 dan Pasal 435 UU No. 17 Tahun 2023 tentang Kesehatan.,putusan_7_pid.sus_2026_pn_kdl_20261105215318.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P056,pasalTerbukti,Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 dan Pasal 435 UU No. 17 Tahun 2023 tentang Kesehatan.,putusan_7_pid.sus_2026_pn_kdl_20261105215318.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P056,vonisBulan,30,putusan_7_pid.sus_2026_pn_kdl_20261105215318.pdf,31,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P056,dendaRupiah,0,putusan_7_pid.sus_2026_pn_kdl_20261105215318.pdf,31,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P056,barangBukti,"Klip plastik berisi lintingan tembakau sintetis dan 75 butir pil putih berlogo Y, handphone, serta uang hasil penjualan.",putusan_7_pid.sus_2026_pn_kdl_20261105215318.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P056,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat dan dapat membahayakan kesehatan.,putusan_7_pid.sus_2026_pn_kdl_20261105215318.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P056,keadaanMeringankan,"Terdakwa sopan di persidangan, belum pernah dihukum, dan mengakui perbuatannya.",putusan_7_pid.sus_2026_pn_kdl_20261105215318.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P056,sourcePages,Nomor perkara: 1; tanggal putusan: 32; identitas terdakwa: 1; barang bukti: 29-31; keadaan memberatkan dan meringankan: 30; amar putusan: 31-32,putusan_7_pid.sus_2026_pn_kdl_20261105215318.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P057,caseId,P057,putusan_9_pid.sus_2026_pn_kdl_20261105215321.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P057,nomorPerkara,9/Pid.Sus/2026/PN Kdl,putusan_9_pid.sus_2026_pn_kdl_20261105215321.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P057,pengadilan,Pengadilan Negeri Kendal,putusan_9_pid.sus_2026_pn_kdl_20261105215321.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P057,tanggalPutusan,2026-02-23,putusan_9_pid.sus_2026_pn_kdl_20261105215321.pdf,26,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P057,terdakwaKode,Terdakwa-107,putusan_9_pid.sus_2026_pn_kdl_20261105215321.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P057,jenisNarkotika,Sabu (Metamfetamina),putusan_9_pid.sus_2026_pn_kdl_20261105215321.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P057,beratBarangBuktiGram,1.70197,putusan_9_pid.sus_2026_pn_kdl_20261105215321.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P057,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_9_pid.sus_2026_pn_kdl_20261105215321.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P057,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_9_pid.sus_2026_pn_kdl_20261105215321.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P057,vonisBulan,72,putusan_9_pid.sus_2026_pn_kdl_20261105215321.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P057,dendaRupiah,0,putusan_9_pid.sus_2026_pn_kdl_20261105215321.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P057,barangBukti,"Empat paket sabu dengan berat bersih keseluruhan 1,70197 gram dan bekas bungkus rokok.",putusan_9_pid.sus_2026_pn_kdl_20261105215321.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P057,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam memberantas narkotika.,putusan_9_pid.sus_2026_pn_kdl_20261105215321.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P057,keadaanMeringankan,Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulangi perbuatannya.,putusan_9_pid.sus_2026_pn_kdl_20261105215321.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P057,sourcePages,"Nomor perkara: 1; tanggal putusan: 26; identitas terdakwa: 1; berat barang bukti: 2; barang bukti: 19, 21, 23-25; keadaan meringankan: 25; amar putusan: 25-26",putusan_9_pid.sus_2026_pn_kdl_20261105215321.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P058,caseId,P058,putusan_11_pid.sus_2026_pn_kdl_20261105220004.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P058,nomorPerkara,11/Pid.Sus/2026/PN Kdl,putusan_11_pid.sus_2026_pn_kdl_20261105220004.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P058,pengadilan,Pengadilan Negeri Kendal,putusan_11_pid.sus_2026_pn_kdl_20261105220004.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P058,tanggalPutusan,2026-02-05,putusan_11_pid.sus_2026_pn_kdl_20261105220004.pdf,34,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P058,terdakwaKode,Terdakwa-108,putusan_11_pid.sus_2026_pn_kdl_20261105220004.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P058,jenisNarkotika,Sabu (Metamfetamina),putusan_11_pid.sus_2026_pn_kdl_20261105220004.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P058,beratBarangBuktiGram,1.04226,putusan_11_pid.sus_2026_pn_kdl_20261105220004.pdf,7,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P058,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika atau Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023.,putusan_11_pid.sus_2026_pn_kdl_20261105220004.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P058,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_11_pid.sus_2026_pn_kdl_20261105220004.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P058,vonisBulan,36,putusan_11_pid.sus_2026_pn_kdl_20261105220004.pdf,33,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P058,dendaRupiah,10000000,putusan_11_pid.sus_2026_pn_kdl_20261105220004.pdf,33,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P058,barangBukti,"Tiga bungkus plastik klip berisi sabu dengan berat bersih masing-masing 0,38543 gram, 0,17859 gram, dan 0,47824 gram, serta topi.",putusan_11_pid.sus_2026_pn_kdl_20261105220004.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P058,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat.,putusan_11_pid.sus_2026_pn_kdl_20261105220004.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P058,keadaanMeringankan,"Terdakwa menyesali perbuatannya, sopan di persidangan, serta berterus terang dan tidak berbelit-belit dalam memberikan keterangan.",putusan_11_pid.sus_2026_pn_kdl_20261105220004.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P058,sourcePages,Nomor perkara: 1; tanggal putusan: 34; identitas terdakwa: 1; berat barang bukti: 5-6; barang bukti: 32-33; keadaan memberatkan dan meringankan: 32; amar putusan: 33-34,putusan_11_pid.sus_2026_pn_kdl_20261105220004.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P059,caseId,P059,putusan_16_pid.sus_2026_pn_kdl_20261105215940.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P059,nomorPerkara,16/Pid.Sus/2026/PN Kdl,putusan_16_pid.sus_2026_pn_kdl_20261105215940.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P059,pengadilan,Pengadilan Negeri Kendal,putusan_16_pid.sus_2026_pn_kdl_20261105215940.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P059,tanggalPutusan,2026-04-28,putusan_16_pid.sus_2026_pn_kdl_20261105215940.pdf,25,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P059,terdakwaKode,Terdakwa-109,putusan_16_pid.sus_2026_pn_kdl_20261105215940.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P059,jenisNarkotika,Sabu (Metamfetamina),putusan_16_pid.sus_2026_pn_kdl_20261105215940.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P059,beratBarangBuktiGram,0.58251,putusan_16_pid.sus_2026_pn_kdl_20261105215940.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P059,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika atau Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023.,putusan_16_pid.sus_2026_pn_kdl_20261105215940.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P059,pasalTerbukti,Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023.,putusan_16_pid.sus_2026_pn_kdl_20261105215940.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P059,vonisBulan,60,putusan_16_pid.sus_2026_pn_kdl_20261105215940.pdf,24,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P059,dendaRupiah,0,putusan_16_pid.sus_2026_pn_kdl_20261105215940.pdf,24,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P059,barangBukti,"Dua plastik klip kecil berisi sabu dengan berat bersih masing-masing 0,42108 gram dan 0,16143 gram, celana jeans, sepeda motor, dan urine dalam tube plastik.",putusan_16_pid.sus_2026_pn_kdl_20261105215940.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P059,keadaanMemberatkan,"Perbuatan terdakwa meresahkan masyarakat, dapat merusak generasi muda, dan terdakwa pernah dihukum sebanyak dua kali.",putusan_16_pid.sus_2026_pn_kdl_20261105215940.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P059,keadaanMeringankan,"Terdakwa menyesali perbuatannya, sopan di persidangan, berterus terang, dan merupakan tulang punggung keluarga.",putusan_16_pid.sus_2026_pn_kdl_20261105215940.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P059,sourcePages,Nomor perkara: 1; tanggal putusan: 25; identitas terdakwa: 1; berat barang bukti: 2; barang bukti: 23-24; keadaan memberatkan dan meringankan: 22-23; amar putusan: 24-25,putusan_16_pid.sus_2026_pn_kdl_20261105215940.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P060,caseId,P060,putusan_17_pid.sus_2026_pn_kdl_20261105215930.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P060,nomorPerkara,17/Pid.Sus/2026/PN Kdl,putusan_17_pid.sus_2026_pn_kdl_20261105215930.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P060,pengadilan,Pengadilan Negeri Kendal,putusan_17_pid.sus_2026_pn_kdl_20261105215930.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P060,tanggalPutusan,2026-04-27,putusan_17_pid.sus_2026_pn_kdl_20261105215930.pdf,38,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P060,terdakwaKode,Terdakwa-110,putusan_17_pid.sus_2026_pn_kdl_20261105215930.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P060,jenisNarkotika,Sabu (Metamfetamina),putusan_17_pid.sus_2026_pn_kdl_20261105215930.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P060,pasalDakwaan,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika atau Pasal 609 ayat (2) huruf a UU No. 1 Tahun 2023.,putusan_17_pid.sus_2026_pn_kdl_20261105215930.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P060,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_17_pid.sus_2026_pn_kdl_20261105215930.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P060,tuntutanBulan,84,putusan_17_pid.sus_2026_pn_kdl_20261105215930.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P060,vonisBulan,72,putusan_17_pid.sus_2026_pn_kdl_20261105215930.pdf,37,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P060,dendaRupiah,0,putusan_17_pid.sus_2026_pn_kdl_20261105215930.pdf,36,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P060,barangBukti,"Sepuluh plastik klip kecil berisi sabu dengan berat bersih 2,57962 gram dan dua plastik klip kecil lainnya dengan berat bersih 0,47265 gram, serta barang pendukung lainnya.",putusan_17_pid.sus_2026_pn_kdl_20261105215930.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P060,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah untuk memberantas narkotika dan dapat merusak moral generasi bangsa.,putusan_17_pid.sus_2026_pn_kdl_20261105215930.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P060,keadaanMeringankan,"Terdakwa menyesali perbuatannya, sopan di persidangan, serta berterus terang dan tidak berbelit-belit dalam memberikan keterangan.",putusan_17_pid.sus_2026_pn_kdl_20261105215930.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P060,sourcePages,Nomor perkara: 1; tanggal putusan: 38; identitas terdakwa: 1; berat barang bukti: 35-37; keadaan memberatkan dan meringankan: 36; tuntutan: bagian tuntutan; amar putusan: 37-38,putusan_17_pid.sus_2026_pn_kdl_20261105215930.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,caseId,P061,putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,nomorPerkara,18/Pid.Sus/2026/PN Kdl,putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,pengadilan,Pengadilan Negeri Kendal,putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,tanggalPutusan,2026-04-29,putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,terdakwaKode,Terdakwa-111,putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,jenisNarkotika,Sabu (Metamfetamina),putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,beratBarangBuktiGram,43.05941,putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,pasalDakwaan,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,tuntutanBulan,120,putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,vonisBulan,84,putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,35,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,dendaRupiah,0,putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,34,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,barangBukti,"Empat kelompok paket sabu dengan berat bersih masing-masing 15,05965 gram, 5,41410 gram, 2,24992 gram, dan 20,33574 gram, serta tas, alat hisap, timbangan digital, dan barang pendukung lainnya.",putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,keadaanMemberatkan,"Perbuatan terdakwa meresahkan masyarakat, dapat membahayakan kesehatan, dan terdakwa pernah dihukum.",putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,keadaanMeringankan,Terdakwa bersikap sopan di persidangan dan mengakui perbuatannya.,putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P061,sourcePages,"Nomor perkara dan identitas: 1; tuntutan: 1-2; berat dan barang bukti: 1-2, 33; keadaan memberatkan dan meringankan: 33-34; pasal terbukti dan vonis: 34-35; tanggal putusan: 35",putusan_18_pid.sus_2026_pn_kdl_20261105215953.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,caseId,P062,putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,nomorPerkara,32/Pid.Sus/2026/PN Kdl,putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,pengadilan,Pengadilan Negeri Kendal,putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,tanggalPutusan,2026-04-28,putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,terdakwaKode,Terdakwa-112,putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,jenisNarkotika,Sabu (Metamfetamina),putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,beratBarangBuktiGram,0.81375,putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,pasalDakwaan,"Pasal 114 ayat (1), Pasal 112 ayat (1), dan Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika.",putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika.,putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,tuntutanBulan,9,putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,vonisBulan,18,putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,22,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,dendaRupiah,0,putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,22,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,barangBukti,"Satu paket sabu dengan berat bersih 0,81375 gram, satu tube urine, dan satu handphone.",putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah untuk memberantas narkotika dan dapat merusak moral generasi bangsa.,putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,keadaanMeringankan,"Terdakwa menyesali perbuatannya, sopan di persidangan, serta berterus terang dan tidak berbelit-belit dalam memberikan keterangan.",putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P062,sourcePages,"Nomor perkara dan identitas: 1; tuntutan: 1; berat barang bukti: 17, 21-22; keadaan memberatkan dan meringankan: 21; pasal terbukti dan vonis: 22; tanggal putusan: 23",putusan_32_pid.sus_2026_pn_kdl_20261029100110.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,caseId,P063,putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,nomorPerkara,37/Pid.Sus/2026/PN Kdl,putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,pengadilan,Pengadilan Negeri Kendal,putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,1,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,tanggalPutusan,2026-06-17,putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,28,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,terdakwaKode,Terdakwa-113,putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,jenisNarkotika,Sabu (Metamfetamina),putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,beratBarangBuktiGram,2.07613,putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,3,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,pasalTerbukti,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika.,putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,tuntutanBulan,72,putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,2,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,vonisBulan,48,putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,28,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,dendaRupiah,0,putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,27,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,barangBukti,"Tujuh paket sabu dalam plastik transparan yang dibungkus tisu dan dimasukkan ke dalam potongan sedotan hitam dengan berat bersih 2,07613 gram, timbangan digital, tas, plastik klip, isolasi, dan barang pendukung lainnya.",putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,keadaanMemberatkan,Perbuatan terdakwa meresahkan masyarakat dan dapat membahayakan kesehatan.,putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,keadaanMeringankan,Terdakwa bersikap sopan di persidangan dan mengakui perbuatannya.,putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
+P063,sourcePages,"Nomor perkara dan identitas: 1; tuntutan: 1-2; berat dan barang bukti: 2, 23, 26; keadaan memberatkan dan meringankan: 26-27; pasal terbukti dan vonis: 27-28; tanggal putusan: 28",putusan_37_pid.sus_2026_pn_kdl_20261105215912.pdf,,Muhammad Rizki Adji Yudha,Muhammad Rizki Adji Yudha,verified
