@@ -8,7 +8,8 @@ Aplikasi berbasis Java untuk mengelola arsip putusan perkara narkotika. Program 
 | Keterangan | Informasi |
 |---|---|
 | Pengerjaan | Individu |
-| Nama | Muhammad Rizki Adji Yudha |
+| Nama | Muhammad Rizki Adji Yudha [@yudhagtr1-gt](https://github.com/yudhagtr1-gt) |
+
 
 ## Deskripsi Proyek
 
